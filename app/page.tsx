@@ -9,6 +9,9 @@ export default function Home() {
       <h1 className="text-4xl font-bold text-center mt-10">
         Mojito Cocktail
       </h1>
+      <p className="text-center mt-5">
+        A refreshing blend of mint, lime, and rum.
+      </p>
     </main>
   );
 }
