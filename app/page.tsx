@@ -6,7 +6,7 @@ gsap.registerPlugin(ScrollTrigger, SplitText);
 export default function Home() {
   return (
     <main>
-      <h1 className="text-4xl font-bold text-center mt-10">
+      <h1 className="text-4xl font-bold flex-center mt-10">
         Mojito Cocktail
       </h1>
       <p className="text-center mt-5">
