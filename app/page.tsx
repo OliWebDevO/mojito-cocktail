@@ -12,6 +12,9 @@ export default function Home() {
       <p className="text-center mt-5">
         A refreshing blend of mint, lime, and rum.
       </p>
+      <p className="text-center mt-5">
+        Perfect for summer parties or a relaxing evening.
+      </p>
     </main>
   );
 }
