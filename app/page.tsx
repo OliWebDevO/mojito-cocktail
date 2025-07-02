@@ -15,6 +15,9 @@ export default function Home() {
       <p className="text-center mt-5">
         Perfect for summer parties or a relaxing evening.
       </p>
+      <p className="text-center mt-5">
+        Serve over ice and garnish with a sprig of mint.
+      </p>
     </main>
   );
 }
